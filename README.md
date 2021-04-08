@@ -1,6 +1,4 @@
 # ML_DL_paper_review
-
-## 스터디 진행순서
 | 논문 |
 |:----------------------------|
 | [VGG](https://arxiv.org/pdf/1409.1556.pdf) |

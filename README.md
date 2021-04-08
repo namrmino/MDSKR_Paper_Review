@@ -6,9 +6,6 @@
 | [VGG](https://arxiv.org/pdf/1409.1556.pdf) |
 | [GoogleNet](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43022.pdf) |
 | [ResNet](https://arxiv.org/pdf/1512.03385.pdf) |
-
-| 논문 |
-|:----------------------------|
 | [Densenet](https://arxiv.org/pdf/1608.06993.pdf) |
 | [Overfeat](https://arxiv.org/pdf/1312.6229.pdf) |
 | [RCNN](https://arxiv.org/pdf/1311.2524.pdf)|

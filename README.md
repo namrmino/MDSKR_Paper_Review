@@ -1,6 +1,6 @@
 # ML_DL_paper_review
-| 논문 |
-|:----------------------------|
+| 논문 | 링크 |
+|:----------------------------|:----------------------------|
 | [VGG](https://arxiv.org/pdf/1409.1556.pdf) | https://arxiv.org/pdf/1409.1556.pdf |
 | [GoogleNet](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43022.pdf) | https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43022.pdf |
 | [ResNet](https://arxiv.org/pdf/1512.03385.pdf) | https://arxiv.org/pdf/1512.03385.pdf |
